@@ -1,24 +1,39 @@
-﻿# Banner tools
+﻿# Как обновлять оформление
 
-`banner.mjs` renders `assets/banner.svg`.
+Макет целиком живёт в `design/gitreadme.figcraft` (FigCraft). Это единственный источник правды для шапки и карточек.
 
-```sh
-node tools/banner.mjs
+## Слои
+
+- `00 · шапка (экспорт в banner.svg)` — шапка профиля, 900×300.
+- `01 · README профиля` — весь профиль на 900 px, ширина контента GitHub.
+- `02 · заметки` — палитра и памятка, не экспортируется.
+- `карточка · <repo>` — по одной на проект. Один фрейм = одна ссылка в README.
+
+## Как перенести правки в профиль
+
+1. Правишь текст в нужном слое.
+2. Выбираешь слой → Export → SVG, текст `As outlines` (кривые).
+3. Кладёшь файл на его место: `assets/banner.svg` или `assets/cards/<repo>.svg`.
+4. Коммит и пуш.
+
+## Шрифты
+
+- Заголовки — **Cinzel** (латиница, капитель). Кириллицы в нём нет, поэтому русский текст — не им.
+- Всё остальное — **Comfortaa**.
+
+Текст в экспортируемых SVG превращается в кривые, поэтому в браузере шрифты не нужны — совпадение гарантировано.
+
+## Палитра
+
+```
+фон      #0d0914
+панель   #191428
+карточка #1b1530 → #12101d
+лаванда  #b8b8ff / #d4d4ff
+золото   #e8c396
+текст    #e6e6fa
 ```
 
-## What is inside
+## Почему карточки отдельными файлами
 
-- 1200x400 canvas, palette taken from the Moonlit Tavern theme: bg `#0d0914`, lavender `#b8b8ff` / `#d4d4ff`, gold `#e8c396`, text `#e6e6fa`.
-- Stars are generated from a fixed seed (`20261125`), so the sky does not change between builds. Change the seed for a different night.
-- The moon is a masked circle: a light disc with a darker one offset on top of it.
-- Type uses a system serif stack. External webfonts do not load inside an SVG used through `<img>`, so anything fancier has to be converted to paths.
-
-## Editing
-
-Text lives at the bottom of the file, in the `<g font-family=...>` block. Colours live in `<defs>`.
-
-## Profile cards
-
-`assets/cards/*.svg` are exported from `design/profile-mockup.figcraft` (FigCraft). Each card is its own layer, so it can be exported on its own and wrapped in a link in the README — that is the only kind of "interactivity" GitHub allows: one image, one `<a href>`.
-
-To change a card: open the mockup, edit the layer, select it, export SVG with text as outlines.
+GitHub вырезает `<style>`, `<script>` и карты ссылок из markdown. Единственный способ сделать часть профиля кликабельной — отдельная картинка, обёрнутая в `<a href>`. Поэтому нельзя «одну большую картинку с кнопками», только нарезка.
