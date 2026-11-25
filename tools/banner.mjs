@@ -112,7 +112,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
 
   <!-- текст -->
   <g font-family="Georgia, 'Times New Roman', serif">
-    <text x="92" y="158" font-size="15" letter-spacing="7.5" fill="#8f88c8" opacity="0.9">SILLYTAVERN · REAPER · LOREBOOKS</text>
+    <text x="92" y="158" font-size="15" letter-spacing="7.5" fill="#8f88c8" opacity="0.9">SILLYTAVERN · THEMES · LOREBOOKS</text>
     <text x="86" y="248" font-size="96" letter-spacing="11" fill="url(#title)">Selena</text>
     <rect x="92" y="272" width="330" height="1" fill="url(#rule)"/>
     <text x="92" y="306" font-size="19" letter-spacing="9" fill="#e8c396" opacity="0.92">MOONLIT TAVERN</text>

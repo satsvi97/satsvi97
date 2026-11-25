@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/made%20by-night-b8b8ff?style=flat-square&labelColor=191428" alt="Made by night">
 </p>
 
-I build the quiet machinery under the roleplay: scene state, weather, calendars, memory. Extensions, themes and lorebooks for **SillyTavern**, plus the occasional thing for **REAPER**.
+I build the quiet machinery under the roleplay: scene state, weather, calendars, memory. Extensions, themes and lorebooks for **SillyTavern**.
 
 Everything here is made for long nights and slow stories — candlelight instead of dashboards, atmosphere instead of noise.
 
@@ -35,15 +35,6 @@ Everything here is made for long nights and slow stories — candlelight instead
 | Project | What it does |
 |:--|:--|
 | **[devils-night-lorebook](https://github.com/satsvi97/devils-night-lorebook)** | World Info for the *Devil's Night* universe — 19 entries, RU, 18+. |
-
-<details>
-<summary><b>Also in the tavern</b></summary>
-
-<br>
-
-**Moonlit Tavern** — a REAPER theme in two cuts: colour-only (173 colour keys rewritten) and full duotone (65 structural PNGs recoloured). Deep purple `#0d0914`, lavender `#b8b8ff`, gold `#e8c396`, moonlight, particles, filigree corners and a crescent watermark. Not published yet — it lives on this desk.
-
-</details>
 
 ---
 
