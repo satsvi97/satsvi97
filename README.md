@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Selena — Moonlit Tavern">
+  <img src="assets/banner.svg?v=2" width="100%" alt="Selena — Moonlit Tavern">
 </p>
 
 <p align="center">
@@ -18,23 +18,23 @@ Everything here is made for long nights and slow stories — candlelight instead
 ### Extensions
 
 <p align="center">
-  <a href="https://github.com/satsvi97/scene-panel"><img src="assets/cards/scene-panel.svg" width="49%" alt="scene-panel — calendar, place, time, weather, present characters and scene mood, kept in sync by AI tags"></a><a href="https://github.com/satsvi97/magic-aura"><img src="assets/cards/magic-aura.svg" width="49%" alt="magic-aura — scene atmosphere and weather overlay with 17 scenes, sky and particles"></a>
+  <a href="https://github.com/satsvi97/scene-panel"><img src="assets/cards/scene-panel.svg?v=2" width="49%" alt="scene-panel — calendar, place, time, weather, present characters and scene mood, kept in sync by AI tags"></a><a href="https://github.com/satsvi97/magic-aura"><img src="assets/cards/magic-aura.svg?v=2" width="49%" alt="magic-aura — scene atmosphere and weather overlay with 17 scenes, sky and particles"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/satsvi97/lorebook-sync"><img src="assets/cards/lorebook-sync.svg" width="49%" alt="lorebook-sync — two-way sync of lorebooks, character cards and personas with Notion"></a>
+  <a href="https://github.com/satsvi97/lorebook-sync"><img src="assets/cards/lorebook-sync.svg?v=2" width="49%" alt="lorebook-sync — two-way sync of lorebooks, character cards and personas with Notion"></a>
 </p>
 
 ### Themes
 
 <p align="center">
-  <a href="https://github.com/satsvi97/run-little-mouse"><img src="assets/cards/run-little-mouse.svg" width="49%" alt="run-little-mouse — gothic dark-romance SillyTavern theme"></a><a href="https://github.com/satsvi97/devils-night-modes"><img src="assets/cards/devils-night-modes.svg" width="49%" alt="devils-night-modes — six book modes for Devil's Night"></a>
+  <a href="https://github.com/satsvi97/run-little-mouse"><img src="assets/cards/run-little-mouse.svg?v=2" width="49%" alt="run-little-mouse — gothic dark-romance SillyTavern theme"></a><a href="https://github.com/satsvi97/devils-night-modes"><img src="assets/cards/devils-night-modes.svg?v=2" width="49%" alt="devils-night-modes — six book modes for Devil's Night"></a>
 </p>
 
 ### Lorebooks
 
 <p align="left">
-  <a href="https://github.com/satsvi97/devils-night-lorebook"><img src="assets/cards/devils-night-lorebook.svg" width="49%" alt="devils-night-lorebook — World Info for the Devil's Night universe, 19 entries, RU"></a>
+  <a href="https://github.com/satsvi97/devils-night-lorebook"><img src="assets/cards/devils-night-lorebook.svg?v=2" width="49%" alt="devils-night-lorebook — World Info for the Devil's Night universe, 19 entries, RU"></a>
 </p>
 
 ---
