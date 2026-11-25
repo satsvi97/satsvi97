@@ -16,3 +16,9 @@ node tools/banner.mjs
 ## Editing
 
 Text lives at the bottom of the file, in the `<g font-family=...>` block. Colours live in `<defs>`.
+
+## Profile cards
+
+`assets/cards/*.svg` are exported from `design/profile-mockup.figcraft` (FigCraft). Each card is its own layer, so it can be exported on its own and wrapped in a link in the README — that is the only kind of "interactivity" GitHub allows: one image, one `<a href>`.
+
+To change a card: open the mockup, edit the layer, select it, export SVG with text as outlines.

@@ -17,24 +17,25 @@ Everything here is made for long nights and slow stories — candlelight instead
 
 ### Extensions
 
-| Project | What it does |
-|:--|:--|
-| **[scene-panel](https://github.com/satsvi97/scene-panel)** | Calendar, place, time, weather, present characters, open threads and scene mood — kept in sync by AI tags. |
-| **[magic-aura](https://github.com/satsvi97/magic-aura)** | Scene atmosphere and weather overlay: 17 scenes, sky, particles and mood above or under the chat. |
-| **[lorebook-sync](https://github.com/satsvi97/lorebook-sync)** | Two-way sync of lorebooks, character cards and personas with Notion. |
+<p align="center">
+  <a href="https://github.com/satsvi97/scene-panel"><img src="assets/cards/scene-panel.svg" width="49%" alt="scene-panel — calendar, place, time, weather, present characters and scene mood, kept in sync by AI tags"></a><a href="https://github.com/satsvi97/magic-aura"><img src="assets/cards/magic-aura.svg" width="49%" alt="magic-aura — scene atmosphere and weather overlay with 17 scenes, sky and particles"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/satsvi97/lorebook-sync"><img src="assets/cards/lorebook-sync.svg" width="49%" alt="lorebook-sync — two-way sync of lorebooks, character cards and personas with Notion"></a>
+</p>
 
 ### Themes
 
-| Project | What it does |
-|:--|:--|
-| **[run-little-mouse](https://github.com/satsvi97/run-little-mouse)** | Gothic dark-romance theme: candlelight, torn paper, butterfly, heartbeat. |
-| **[devils-night-modes](https://github.com/satsvi97/devils-night-modes)** | Six book modes for Penelope Douglas' *Devil's Night* series — Corrupt, Hideaway, Kill Switch, Punk 57, Conclave, Nightfall. |
+<p align="center">
+  <a href="https://github.com/satsvi97/run-little-mouse"><img src="assets/cards/run-little-mouse.svg" width="49%" alt="run-little-mouse — gothic dark-romance SillyTavern theme"></a><a href="https://github.com/satsvi97/devils-night-modes"><img src="assets/cards/devils-night-modes.svg" width="49%" alt="devils-night-modes — six book modes for Devil's Night"></a>
+</p>
 
 ### Lorebooks
 
-| Project | What it does |
-|:--|:--|
-| **[devils-night-lorebook](https://github.com/satsvi97/devils-night-lorebook)** | World Info for the *Devil's Night* universe — 19 entries, RU, 18+. |
+<p align="left">
+  <a href="https://github.com/satsvi97/devils-night-lorebook"><img src="assets/cards/devils-night-lorebook.svg" width="49%" alt="devils-night-lorebook — World Info for the Devil's Night universe, 19 entries, RU"></a>
+</p>
 
 ---
 
