@@ -45,5 +45,5 @@ Everything here is made for long nights and slow stories — candlelight instead
 </p>
 
 <p align="center">
-  <sub>Moonlit Tavern · built between midnight and three · <a href="https://github.com/satsvi97?tab=repositories">all repositories</a></sub>
+  <sub>Selena's Tavern · built between midnight and three · <a href="https://github.com/satsvi97?tab=repositories">all repositories</a></sub>
 </p>
